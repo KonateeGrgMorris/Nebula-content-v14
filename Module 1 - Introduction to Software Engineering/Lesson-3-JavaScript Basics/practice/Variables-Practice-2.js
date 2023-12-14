@@ -25,3 +25,5 @@ ${houseNum}, ${street}
 ${city}, ${state}
 ${zip}`
 
+console.log(`I am currently learning the programming language called ${language}. I ${adjective1} this program already. I read recently that declaring variables with the ${keyword1} keyword has gone out of style ever since ECMAScript ${year}. Oh, also, my instructor ${instructor} is awesome!`);
+console.log('I am currently learning how to code and I love it already ${javascript}. i ${adjective1}this program already, I read recently that declaring variables with the ${String} keyword had gone out of style ever since ECMAScript $(year). ')
