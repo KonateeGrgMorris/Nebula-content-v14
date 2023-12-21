@@ -44,7 +44,6 @@ const extractFavDayArr = ['Wednesday']
     let laptop = ['MacBook', 'HP', 'Dell']
 
     const combineArr = ['iphone', 'android'] + ['MacBook', 'HP', 'Dell']
-    const combineResult = (' - ')
-    console.log(combineResult)
+    console.log(phone.concat(laptop))
 
 //13.   Write a line of code to test if something is an array or not
